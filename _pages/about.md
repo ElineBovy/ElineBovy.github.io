@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD-candidate at the <a href='https://sws.cs.ru.nl/'>Software Science</a> department of the <a href='https://www.ru.nl/en'>Radboud University</a>.
+subtitle: PhD-candidate at the <a href='https://sws.cs.ru.nl/'>Software Science</a> department of <a href='https://www.ru.nl/en'>Radboud University</a>.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests are formal verification and decision-making problems. My current work foccusses on uncertain partially observable Markov decision processes.
+My research interests are formal verification and decision-making problems. My current work focuses on uncertain partially observable Markov decision processes.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
