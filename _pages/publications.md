@@ -16,11 +16,9 @@ nav_order: 1
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1>Thesis</h2>
 {%- for y in page.t_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f theses -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
-
