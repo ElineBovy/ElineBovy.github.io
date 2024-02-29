@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
+us_count: [1]
 # p_years: [2023]
 t_years: [2023]
 nav: true
@@ -14,10 +15,10 @@ scholar:
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<!-- {%- for y in page.p_years %} -->
-<h2 class="under_submission">Under submission</h2>
-  {% bibliography -f under_submission%}
-<!-- {% endfor %} -->
+{%- for c in page.us_count %}
+  <h2 class="under_submission">Under submission</h2>
+  {% bibliography -f under_submission -q @*[title={Imprecise Probabilities Meet Partial Observability: Game Semantics for Robust POMDPs}]%}
+{% endfor %}
 
 <!-- {%- for y in page.p_years %}
   <h2 class="year">{{y}}</h2>
