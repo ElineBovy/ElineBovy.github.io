@@ -8,9 +8,8 @@ nav_order: 5
 ---
 
 ### Talks and presentations
+* 
+* 
 
 ### Subreviewer
-I have been a subreviewer for:
-* NeurIPS
-* TACAS
-* LICS
+I have subreviewed for: NeurIPS, TACAS, LICS.
