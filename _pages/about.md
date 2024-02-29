@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD-candidate at the <a href='https://sws.cs.ru.nl/'>Software Science</a> department of <a href='https://www.ru.nl/en'>Radboud University</a>.
 
