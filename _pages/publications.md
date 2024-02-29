@@ -16,7 +16,7 @@ scholar:
 
 <!-- {%- for y in page.p_years %} -->
 <h2 class="under_submission">Under submission</h2>
-  {% bibliography -f under_submission %}
+  {% bibliography -f under_submission%}
 <!-- {% endfor %} -->
 
 <!-- {%- for y in page.p_years %}
