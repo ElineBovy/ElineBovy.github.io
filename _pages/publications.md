@@ -17,7 +17,7 @@ scholar:
 
 {%- for c in page.us_count %}
   <h2 class="under_submission">Under submission</h2>
-  {% bibliography -f under_submission -q @*[title={Imprecise Probabilities Meet Partial Observability: Game Semantics for Robust POMDPs}]%}
+  {% bibliography -f under_submission -q @*[title=Imprecise Probabilities Meet Partial Observability: Game Semantics for Robust POMDPs]%}
 {% endfor %}
 
 <!-- {%- for y in page.p_years %}
