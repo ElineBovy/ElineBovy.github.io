@@ -15,9 +15,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a PhD candidate at the <a href='https://sws.cs.ru.nl/'>Software Science</a> department of the Radboud University in Nijmegen, the Netherlands. I am supervised by Prof.dr. Nils Jansen. Before starting my PhD in March 2023, I followed the bachelors and masters Computing Science at the Radboud University, with a specialization in Mathematical Foundations of Computer Science.
+I am a PhD candidate at the <a href='https://sws.cs.ru.nl/'>Software Science</a> department of the Radboud University in Nijmegen, the Netherlands, supervised by Prof. Dr. Nils Jansen. Before starting my Ph.D. in March 2023, I studied Computing Science at Radboud University, specializing in Mathematical Foundations of Computer Science.
 
-My main research interest and conviently the topic of my PhD trajectory is planning and verification under uncertainty. More specifically, I look at extensions of Markov decision processes (MDPs) that add model uncertainty, such as robust MDPs and robust partially observable MDPs (POMDPs). My current work focuses on the semantics of robust POMDPs, assumptions made about uncertainty in robust (PO)MDPs, and the link between the uncertain models and stochastic games.
+My main research interest, and conveniently, the topic of my PhD trajectory, is planning and verification under uncertainty. More specifically, I look at extensions of Markov decision processes (MDPs) that add model uncertainty, such as robust MDPs and robust partially observable MDPs (POMDPs). My current work focuses on the semantics of robust POMDPs, assumptions about uncertainty in robust (PO)MDPs, and the link between the uncertain models and stochastic games.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
