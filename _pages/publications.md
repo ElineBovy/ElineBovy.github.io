@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 us_count: [0]
-# p_years: [2024]
+p_years: [2024]
 t_years: [2023]
 nav: true
 nav_order: 1
@@ -13,21 +13,21 @@ scholar:
   first_name: [Eline]
 ---
 
-<!-- ### Under submission -->
 <!-- _pages/publications.md -->
-<div class="publications">
 
+<!-- ### Under submission
 {%- for c in page.us_count %}
   <h2 class="under_submission"></h2>
   {% bibliography -f under_submission -q @*[title=Imprecise Probabilities Meet Partial Observability: Game Semantics for Robust POMDPs]%}
-{% endfor %}
-</div>
+{% endfor %} -->
 
 ### Accepted publications
-<!-- {%- for y in page.p_years %}
+<div class="publications">
+{%- for y in page.p_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %} -->
+{% endfor %}
+</div>
 
 ### Thesis
 <div class="publications">
