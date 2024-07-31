@@ -6,8 +6,8 @@ subtitle: PhD-candidate at the <a href='https://www.ru.nl/en'>Radboud University
 
 profile:
   align: right
-  image: Pro_foto_klein.jpg
-  image_circular: false # crops the image to make it circular
+  image: Eline_Bovy_06.jpg
+  image_circular: true # crops the image to make it circular
   address:
 
 news: false  # includes a list of news items
