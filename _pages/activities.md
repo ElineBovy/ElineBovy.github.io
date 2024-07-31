@@ -18,4 +18,4 @@ nav_order: 5
     _Best thesis award_.
 
 ### Subreviewer
-I have subreviewed for: NeurIPS, TACAS, LICS.
+I have subreviewed for: NeurIPS, TACAS, LICS, and ECAI.
