@@ -9,7 +9,7 @@ nav_order: 5
 
 
 ### As lecturer:
-* Model Checking. Master course, spring 2024. Lectures on MDPs and POMDPs.
+* Model Checking. Master course, spring 2024. Lecture on MDPs.
 
 ### As teaching assistant:
 * Model Checking. Master course, spring 2024. Exercise classes.
