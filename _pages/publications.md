@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-us_count: [0]
+# us_count: [0]
 p_years: [2024]
 t_years: [2023]
 nav: true
