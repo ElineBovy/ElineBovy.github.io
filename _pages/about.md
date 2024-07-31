@@ -6,7 +6,7 @@ subtitle: PhD-candidate at the <a href='https://www.ru.nl/en'>Radboud University
 
 profile:
   align: right
-  image: Eline_Bovy_06.jpg
+  image: Eline_Bovy_smaller_3.jpg
   image_circular: true # crops the image to make it circular
   address:
 
