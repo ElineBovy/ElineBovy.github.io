@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 # us_count: [0]
-p_years: [2024]
+p_years: [2025,2024]
 t_years: [2023]
 nav: true
 nav_order: 1
