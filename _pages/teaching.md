@@ -9,9 +9,12 @@ nav_order: 5
 
 
 ### As lecturer:
+* Model Checking. Master course, spring 2025. Lecture on MDPs.
 * Model Checking. Master course, spring 2024. Lecture on MDPs.
 
 ### As teaching assistant:
+* Model Checking. Master course, spring 2025. Exercise classes.
+* Seminar Mathematical Foundations of Computer Science. Master course, fall 2025. Project supervision.
 * Model Checking. Master course, spring 2024. Exercise classes.
 * Seminar Mathematical Foundations of Computer Science. Master course, fall 2024. Project supervision.
 * Software verification. Bachelor course, spring 2022. Exercise classes.
