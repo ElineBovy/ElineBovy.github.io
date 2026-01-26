@@ -29,7 +29,7 @@ scholar:
 {% endfor %}
 </div>
 
-### Thesis
+### Master thesis
 <div class="publications">
 {%- for y in page.t_years %}
   <h2 class="year">{{y}}</h2>
