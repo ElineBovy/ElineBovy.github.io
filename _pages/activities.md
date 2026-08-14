@@ -31,6 +31,7 @@ nav_order: 5
 ### Awards
 * BNAIC/BeNeLearn 2023:\
     _Best thesis award_.
+*  [Christine Mohrmann Stipend](https://www.ru.nl/en/research/prizes-and-grants/christine-mohrmann-stipend) 2026
 
 ### Subreviewer
-I have subreviewed for: NeurIPS, AAMAS, TACAS, LICS, and ECAI.
+I have reviewed for: IJCAI. I have subreviewed for: NeurIPS, AAMAS, TACAS, LICS, FMCAD, and ECAI.
